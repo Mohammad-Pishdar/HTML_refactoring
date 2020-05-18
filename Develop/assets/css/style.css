@@ -116,7 +116,7 @@ aside {
 
 section {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: hsla(1, 0%, 100%, 1);
 }
 
 section h3 {
